@@ -29,6 +29,19 @@
 <a href=https://www.instagram.com/lee_jy0719/> <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white&link=https://www.instagram.com/lee_jy0719/"></a>
 E-mail : wjdduq0719@naver.com
 
+## 💬 project
+#### 1. '👪이리온' - 디지털 소외계층을 위한 봉사활동 모집 시스템
+##### Repository on 2023hackaton
+
+#### 2. '💊알약지니' - 바쁜 현대인을 위한 영양관리솔루션!
+##### Repository on Datacampus
+
+#### 3. '🔋 길건너 건전지' - 도심 속 공유배터리 시스템
+##### Repository on mirton6
+
+#### 4. '🏫픽업!' - 전공 속 세부 진로
+##### Repository on CapStoneDesign
+##### Link : http://majorpickfe.s3-website.ap-northeast-2.amazonaws.com/
 
 ## ✨ Profile
 공사중입니다!
