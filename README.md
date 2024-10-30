@@ -2,8 +2,8 @@
     <img src="https://capsule-render.vercel.app/api?type=soft&color=0:3edac0,100:304cd9&height=120&text=This%20is%20I%20Like%20Cloudy's%20Space&animation=&fontColor=ffffff&fontSize=50" />
 </div>
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=ILikeCLoudy&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ILikeCLoudy)](https://github.com/ILikeCLoudy/github-readme-stats)
+## Hits
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FILikeCLoudy%2Fhit-counter&count_bg=%235CC2C0&title_bg=%233CC41A&icon=&icon_color=%2300F5D5&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 ## 💻 Tech Stack
 
@@ -50,3 +50,5 @@ E-mail : wjdduq0719@naver.com
 ### 2023 데이터청년캠퍼스 수료 - 우수상 수상
 
 
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=ILikeCLoudy&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ILikeCLoudy)
