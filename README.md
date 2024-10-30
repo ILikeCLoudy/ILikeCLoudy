@@ -2,8 +2,10 @@
     <img src="https://capsule-render.vercel.app/api?type=soft&color=0:3edac0,100:304cd9&height=120&text=This%20is%20I%20Like%20Cloudy's%20Space&animation=&fontColor=ffffff&fontSize=50" />
 </div>
 
-## Hits
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FILikeCLoudy%2Fhit-counter&count_bg=%235CC2C0&title_bg=%233CC41A&icon=&icon_color=%2300F5D5&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+## Introduce
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FILikeCLoudy%2Fhit-counter&count_bg=%235CC2C0&title_bg=%233CC41A&icon=&icon_color=%2300F5D5&title=hits&edge_flat=false)](https://hits.seeyoufarm.com) <br>
+### ENFJ / 직업흥미코드 S형의 개발자
+### 안녕하세요! 팔로워십이 좋은 소통형 개발자 이정엽입니다!
 
 ## 💻 Tech Stack
 
