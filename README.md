@@ -52,8 +52,7 @@ E-mail : wjdduq0719@naver.com
 ### 2023 데이터청년캠퍼스 수료 - 우수상 수상
 <br>
 <br>
-<br>
-<br>
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=ILikeCLoudy&show_icons=true&theme=radical)
+<br>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ILikeCLoudy)
