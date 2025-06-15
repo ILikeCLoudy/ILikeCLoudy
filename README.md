@@ -31,9 +31,9 @@
 ## 📫 Contact
 <a href=https://www.instagram.com/lee_jy0719/> <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white&link=https://www.instagram.com/lee_jy0719/"></a>
 <br>
-<a><img src="https://img.shields.io/badge/Velog-232F3E?style=for-the-badge&logo=amazonaws&logoColor=green&link=https://velog.io/@wjdduq0719/"></a>
+<a href="https://velog.io/@wjdduq0719/"><img src="https://img.shields.io/badge/Velog-232F3E?style=for-the-badge&logo=velog&logoColor=green"></a>
 <br>
-E-mail : wjdduq0719@naver.com
+<a href="mailto:wjdduq0719@naver.com"><img src="https://img.shields.io/badge/wjdduq0719@naver.com-D14836?style=for-the-badge&logo=naver&logoColor=white"/></a>
 
 ## 💬 project
 #### 1. '👪이리온' - 디지털 소외계층을 위한 봉사활동 모집 시스템
