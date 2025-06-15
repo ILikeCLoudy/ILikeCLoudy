@@ -31,7 +31,7 @@
 ## 📫 Contact
 <a href=https://www.instagram.com/lee_jy0719/> <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white&link=https://www.instagram.com/lee_jy0719/"></a>
 <br>
-<a><img src="https://img.shields.io/badge/velog-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"></a>
+<a><img src="https://img.shields.io/badge/velog-232F3E?style=for-the-badge&logo=amazonaws&logoColor=yellowgreen"></a>
 <br>
 E-mail : wjdduq0719@naver.com
 
