@@ -24,8 +24,8 @@
 <a><img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white/"></a>
 
 ## 🌐 Server
-<a><img src="https://img.shields.io/badge/Apache Tomcat-F8DC75?style=for-the-badge&logo=Apache Tomcat&logoColor=white"></a>
-<a><img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=for-the-badge&logo=Amazon AWS&logoColor=white"></a>
+<a><img src="https://img.shields.io/badge/Apache--Tomcat-F8DC75?style=for-the-badge&logo=apachetomcat&logoColor=white"></a>
+<a><img src="https://img.shields.io/badge/Amazon%20AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"></a>
 
 ## 📫 Contact
 <a href=https://www.instagram.com/lee_jy0719/> <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white&link=https://www.instagram.com/lee_jy0719/"></a>
