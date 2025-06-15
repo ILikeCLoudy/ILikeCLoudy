@@ -3,7 +3,7 @@
 </div>
 
 ## Introduce
-[![Hits](https://hitmeup-backend-593087166771.asia-northeast1.run.app/api/count/increment?url=https%3A%2F%2Fgithub.com%2FILikeCLoudy%2F&title=hits&title_bg=555555&count_bg=79c83d&edge_flat=false)](https://hitmeup-backend-593087166771.asia-northeast1.run.app) <br>
+[![Hits](https://hitmeup-backend-593087166771.asia-northeast1.run.app/api/count/increment?url=https%3A%2F%2Fgithub.com%2FILikeCLoudy%2F&title=hits&title_bg=48b5f9&count_bg=79c83d&edge_flat=false)](https://hitmeup-backend-593087166771.asia-northeast1.run.app) <br>
 ### ENFJ / 직업흥미코드 S형의 개발자
 ### 안녕하세요! 팔로워십이 좋은 소통형 개발자 이정엽입니다!
 
